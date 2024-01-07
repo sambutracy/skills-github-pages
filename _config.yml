@@ -1,0 +1,14 @@
+theme: minima
+
+
+title: 🚀 Tracy Sambu's Coding Odyssey
+author: Tracy Sambu
+description: Explore the universe of my GitHub skills, projects, and coding adventures. 🌌✨
+
+email: tracysambut@example.com
+github_username: sambutracy
+linkedin_username: tracy sambu
+
+colors:
+  primary: "#3498db"
+  secondary: "#2ecc71"
