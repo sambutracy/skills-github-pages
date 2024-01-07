@@ -1,6 +1,4 @@
----
-title: Welcome to my blog
----
+
 Hello, world! 👋 I'm Tracy Sambu, a passionate software developer exploring the realms of code and creativity.
 
 ## About Me
